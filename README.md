@@ -101,5 +101,4 @@ python auto_label.py --input_path data/Llama-3.1-70B-Instruct_processed.jsonl --
 ## CogniDet
 We have uploaded the model weights to an anonymous cloud storage. You can access them here: 
 
-[Download CogniDet Weights](https://drive.google.com/drive/folders/1t07QLcnmZpUcb_bDg-A2APbYPKertnft?usp=drive_link
-)
+[Download CogniDet Weights](https://mega.nz/folder/QIIwnBxY#ltYWLtCzJih-YrHRFeNqnQ)
