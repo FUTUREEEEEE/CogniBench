@@ -1,5 +1,5 @@
 # <center>CogniBench: A Legal-inspired Framework and Dataset for Assessing Cognitive Faithfulness of Large Language Models</center>
-![alt text](figs/gap.png)
+![alt text](figs/intro.png)
 
 Existing benchmarks focus on **''factual statements''** that rephrase source materials without marking **''cognitive statements'**' that make inference from the given context, making the consistency evaluation and optimization of cognitive statements difficult.
 
