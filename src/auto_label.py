@@ -23,7 +23,7 @@ class AutoLabel:
             "cognitive": r'<cognitive>(.*?)</cognitive>',
             "factual": r'<factual>(.*?)</factual>',
             "irrelevant": r'<irrelevant>(.*?)</irrelevant>',
-            "irrefutable": r'<irrefutable>(.*?)</irrefutable>',
+            "unequivocal": r'<unequivocal>(.*?)</unequivocal>',
             "reliable": r'<reliable>(.*?)</reliable>',
         }
 

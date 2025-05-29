@@ -12,6 +12,14 @@ we provide **a series of tools** to evaluate the cognitive faithfulness of LLMs,
 3. [**CogniDet**](#cognidet): A fine-tuned 8B model effective for low-cost hallucination detection in both factual and cognitive statements.
 
 
+## TODOs
+- [ ] Upload CogniBench-L
+- [ ] Sync datasets to Huggingface
+- [ ] Sync model to Huggingface
+
+
+
+
 ## CogniBench
 
 CogniBench is the first knowledge-grounded dialogue dataset and framework for assessing cognitive faithfulness.
@@ -66,7 +74,7 @@ Example of Annotated Data
         "misleading_list": [ ],
         "speculative_list": [ ],
         "realiable_list": [ ],
-        "irrefutable_list": [ ],
+        "unequivocal_list": [ ],
         "factual_list": [ ],
         "cognitive_list": [ ],
         "sentence_label_dict": { }
