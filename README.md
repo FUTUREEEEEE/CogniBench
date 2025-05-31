@@ -20,13 +20,6 @@ we provide **a series of tools** to evaluate the cognitive faithfulness of LLMs,
 3. [**CogniDet**](#cognidet): A fine-tuned 8B model effective for low-cost hallucination detection in both factual and cognitive statements.
 
 
-## TODOs
-- [ ] Upload CogniBench-L
-- [ ] Sync datasets to Huggingface
-- [ ] Sync model to Huggingface
-
-
-
 
 ## CogniBench
 
