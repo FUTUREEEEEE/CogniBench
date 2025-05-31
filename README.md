@@ -2,7 +2,7 @@
 
 <p align="center">
     </a>&nbsp&nbsp📖 <a href="https://arxiv.org/abs/2505.20767">ArXiv</a>
-    </a>&nbsp&nbsp │ &nbsp&nbsp📀 <a href="https://huggingface.co/datasets/future7/CogniBench-Dialogues">CogniBench-Dialogues Dataset</a>
+    </a>&nbsp&nbsp │ &nbsp&nbsp📀 <a href="https://huggingface.co/datasets/future7/CogniBench">CogniBench Dataset</a>
     </a>&nbsp&nbsp │ &nbsp&nbsp📀 <a href="https://huggingface.co/datasets/future7/CogniBench-L">CogniBench-L Dataset</a>
     </a>&nbsp&nbsp │ &nbsp&nbsp🤗 <a href="https://huggingface.co/future7/CogniDet">Models</a>
 </p>
