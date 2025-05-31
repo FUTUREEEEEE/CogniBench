@@ -1,4 +1,11 @@
 # <center>CogniBench: A Legal-inspired Framework and Dataset for Assessing Cognitive Faithfulness of Large Language Models</center>
+
+<p align="center">
+    </a>&nbsp&nbsp📖 <a href="https://arxiv.org/abs/2505.20767">ArXiv</a>
+    </a>&nbsp&nbsp │ &nbsp&nbsp📀 <a href="https://huggingface.co/datasets/future7/CogniBench">Dataset</a>
+    </a>&nbsp&nbsp │ &nbsp&nbsp🤗 <a href="https://huggingface.co/future7/CogniDet">Models</a>
+</p>
+
 ![alt text](figs/intro.png)
 
 Existing benchmarks focus on **''factual statements''** that rephrase source materials without marking **''cognitive statements'**' that make inference from the given context, making the consistency evaluation and optimization of cognitive statements difficult.
